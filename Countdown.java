@@ -10,7 +10,7 @@ public class Countdown {
         System.out.print("One. . .");
         System.out.print("Zero. . .");
         System.out.println("Raise !");
-        System.out.println("Let Go, Don't Lazy ! .");
+        System.out.println("Let Go,Don't Lazy ! .");
 
 
     }
